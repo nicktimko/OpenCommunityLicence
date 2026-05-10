@@ -2,6 +2,8 @@
 
 This repository contains the Open Community License (OCL v1) - a license designed to allow open access to community including the essential right, the right-to-repair, while promoting fair competition.
 
+*Note that this license does not comply with the [Open Source Initiative definitions](https://opensource.org/osd) for an "open source" license as it has restrictions for redistribution, fields of endeavor (commercial use), and on accompanying techology (data scrapers).*
+
 ## License
 
 OCL pertains to intellectual property applied in the licensor’s products and/or its components (hardware and software) which is distributed under such, including copyright, design, and patent.
